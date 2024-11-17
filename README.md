@@ -1,3 +1,3 @@
 - 👋 Hi, we are Lemon & Lime
-- 👀 We are a data, software and design studio
-- 🌱 Currently looking for clients
+- 🌱 We are a data, software and design studio
+- 👀 Currently looking for clients
